@@ -43,9 +43,7 @@ npm run dev
 npm start
 ```
 
-## Database Seeder
 
-To seed the database with users, products, and reviews with data from the "\_data" folder, run
 
 
 ```
